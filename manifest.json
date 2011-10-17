@@ -1,0 +1,13 @@
+{
+"name":"Simple-maps",
+"version":"1.0",
+"description":"Extension for google maps",
+"icons": {"128":"icon.png"},
+"background_page": "bg.html",
+"permissions": ["http://*.google.com"],
+"browser_action": {
+"default_title": "Grip",
+"default_icon": "icon_default.png",
+"default_popup": "popup.html"
+	}
+}
