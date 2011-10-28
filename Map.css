@@ -1,0 +1,15 @@
+body {
+min-width:500px;
+max-height:700px;
+font-family: Verdana, Geneva,Arial,Helvetica, sans-serif;
+font-size:small;
+background: #f4f6fc;
+}
+#map{
+border:2px black dashed; width:500px;height:400px;
+}
+#notification{display:inline; }
+form {
+margin-bottom: 10px;
+}
+
